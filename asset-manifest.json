@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/devfinder/static/css/main.5293acb6.css",
+    "main.js": "/devfinder/static/js/main.60e375cb.js",
+    "static/media/DevFinder.png": "/devfinder/static/media/DevFinder.d186c34eecd31d2219e9.png",
+    "index.html": "/devfinder/index.html",
+    "main.5293acb6.css.map": "/devfinder/static/css/main.5293acb6.css.map",
+    "main.60e375cb.js.map": "/devfinder/static/js/main.60e375cb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5293acb6.css",
+    "static/js/main.60e375cb.js"
+  ]
+}
